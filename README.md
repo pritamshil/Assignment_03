@@ -86,5 +86,3 @@ int main()
   return 0;
 
 }
-Chat Conversation End
-Type a message...
